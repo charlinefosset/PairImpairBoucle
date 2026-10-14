@@ -34,7 +34,7 @@ class Program
             yesno = Console.ReadLine();
         } while ( yesno  == "y");
 
-        Console.WriteLine("Merci d'avoir essayé!");
+        Console.WriteLine("Merci d'avoir essayé!!");
      
             
        
